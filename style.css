@@ -28,7 +28,7 @@ h1 {
     
 }
 img{
-    padding: 1rem 1rem 1rem 1rem;
+    padding: 1rem;
     border-radius: 100%;
 }
 span{
@@ -83,13 +83,13 @@ h3, h2{
     position: absolute;
     right: 30px;
     border-radius: 0%;
-    margin: auto 100px auto 0px;
+    margin: auto 200px auto 0px;
 }
 .cloud2{
     position: absolute;
     left:30px;
     border-radius: 0%;
-    margin: auto auto auto 100px;
+    margin: auto auto auto 200px;
     display: inline-block;
 }
 #ll {
