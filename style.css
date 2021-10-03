@@ -1,0 +1,110 @@
+body {
+    box-sizing: border-box;
+    margin: 0%;
+    height: 100vh;
+}
+    
+body {
+    margin-top: 50px;
+    background-color: #CAF7E3;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
+    width: auto;
+}
+hr{
+    width:90px;
+    border-bottom: 200px;
+    border-style: dotted none none none;
+    color: #BBBBBB;
+    border-width: 15px;
+}
+h1 {
+    padding-top: 35px;
+    margin: 50px auto auto auto;
+    font-weight: bolder;
+    font-size: 4rem;
+    color: #3797A4;
+    
+}
+img{
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 100%;
+}
+span{
+    
+    border-bottom: black;
+    
+}
+.h22{
+    text-align: center;
+    margin: auto;
+}
+.img-1, .img-2  {
+    width: 15%;
+
+}
+.img-2{
+    background-color: lightsalmon;
+}
+h3, h2{
+    font-weight: bolder;
+    font-size: 2rem;
+    color: #3797A4;
+    text-align: center;
+}
+.edu{
+    text-align: left;
+}
+.img-1{
+    float:left;
+    width: 20%;
+    height: auto;
+   
+}
+.img-2{
+    float: right;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+.skill-row{
+    text-align: left;
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    padding-left: 200px;
+}
+.h3class {
+    text-align: right;
+}
+.contact-me{
+    text-align: center;
+}
+.cloud1{
+    position: absolute;
+    right: 30px;
+    border-radius: 0%;
+    margin: auto 100px auto 0px;
+}
+.cloud2{
+    position: absolute;
+    left:30px;
+    border-radius: 0%;
+    margin: auto auto auto 100px;
+    display: inline-block;
+}
+#ll {
+    text-decoration: none;
+    border-bottom: none;
+}
+.skills {
+    margin-left: 300px;
+    margin: 0%;
+}
+.skill-row{
+    margin-right: 300px;
+}
+.bottom-container{
+    background-color: #3797A4;
+    box-sizing: border-box;
+    margin: 0%;
+}
